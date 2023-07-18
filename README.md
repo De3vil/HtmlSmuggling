@@ -10,7 +10,7 @@
   
 * Inspired by : @abdulkadir-gungor
 ![](src/HTMLsmuggling-1.jpg)
-![](src/src1.png)
+![](src/srcc.png)
 #### Requirements
 * python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
 * os : Windows
