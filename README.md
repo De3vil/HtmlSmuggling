@@ -7,6 +7,7 @@
 * Embeds the selected binary file `(exe, dll, docx, pdf, etc) `into the Javascript file. Obfuscates Javascript functions. This makes it difficult to decode javascript functions.
 
 * Once a victim receives the email and opens the attachment, their browser decodes and runs the script, which then assembles a malicious payload directly on the victim’s device.
+Inspired by : @abdulkadir-gungor
 ![](src/HTMLsmuggling-1.jpg)
 
 #### Requirements
