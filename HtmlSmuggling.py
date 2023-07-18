@@ -31,7 +31,7 @@ def bannare():
 {error}       _  _ ___ _  _ _    ____ _  _ _  _ ____ ____ _    _ _  _ ____ 
 {mof}       |__|  |  |\/| |    [__  |\/| |  | | __ | __ |    | |\ | | __ 
 {y}       |  |  |  |  | |___ ___] |  | |__| |__] |__] |___ | | \| |__] 
-{cyann}            creayted by : {greenn}Abdulrhamn Mohammed {y}({error}De3vil{y})                                                        
+{cyann}            created by : {greenn}Abdulrahman Mohammed {y}({error}De3vil{y})                                                        
 
 """
     print(bannar)
