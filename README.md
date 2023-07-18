@@ -8,3 +8,33 @@
 
 * Once a victim receives the email and opens the attachment, their browser decodes and runs the script, which then assembles a malicious payload directly on the victim’s device.
 ![](src/HTMLsmuggling-1.jpg)
+
+#### Requirements
+* python >= 3.8 ++ Download [Python](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+* os : Windows
+* os : Linux
+* os : Android (Termux)
+
+
+### Installation to Windows:
+```bash
+git clone https://github.com/De3vil/HtmlSmuggling.git
+cd HtmlSmuggling
+python HtmlSmuggling.py
+```
+
+
+***
+ ## [+] Find Me on :
+<h4> Abdulrahman Mohammed </h4>
+  <a href="https://t.me/De3vil_3">
+     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
+</a>
+  <a href="https://www.facebook.com/De3vil.3">
+     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
+  </a>
+
+
+If this tool has been useful for you, feel free to thank me by buying me a coffee :)
+[![Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/De3vil)
+ [![B De3vil](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://www.paypal.com/paypalme/De3vil01)
