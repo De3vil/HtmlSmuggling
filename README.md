@@ -20,7 +20,7 @@
 ```bash
 git clone https://github.com/De3vil/HtmlSmuggling.git
 cd HtmlSmuggling
-python HtmlSmuggling.py
+python HtmlSmuggling.py <FileName> <MalwarePath>
 ```
 
 
