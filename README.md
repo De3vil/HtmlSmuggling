@@ -27,8 +27,8 @@ python HtmlSmuggling.py
 ***
  ## [+] Find Me on :
 <h4> Abdulrahman Mohammed </h4>
-  <a href="https://t.me/De3vil_3">
-     <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Telegram&logoColor=00AEFF&labelColor=black&color=black">
+  <a href="https://www.linkedin.com/in/de3vil/">
+     <img src="https://img.shields.io/badge/De3vil-blue?style=for-the-badge&logo=linkedin&logoColor=00AEFF&l">
 </a>
   <a href="https://www.facebook.com/De3vil.3">
      <img src="https://img.shields.io/badge/De3vil__3-blue?style=for-the-badge&logo=Facebook&logoColor=00AEFF&labelColor=black&color=black">
